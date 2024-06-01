@@ -1,5 +1,4 @@
-# Eden
-<h2 align="center"><u> #EDEN </u></h2>
+<h2 align="center"><u>**EDEN**</u></h2>
 
 ![Accédez et Contrôlez votre PC À Distance ](images/banner.png)
 <h4 align="center"> Accédez et Contrôlez votre PC À Distance  </h4>
