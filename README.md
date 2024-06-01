@@ -8,5 +8,5 @@
 </p>
 
 ### [+] Description
-Eden is a tool which helps you access your Windows PC through another PC or your mobile phone. ***comming soon...***
+Eden is a tool which helps you access your Windows PC through another PC or your mobile phone. ***coming soon...***
 
