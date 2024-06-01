@@ -1,6 +1,6 @@
 <h1 align="center"><p><u>EDEN</u></p></h1>
 
-![Accédez et Contrôlez votre PC À Distance ](images/banner.png)
+![Accédez et Contrôlez votre PC À Distance ](Images/banner.png)
 <h4 align="center"> Access and control your PC wherever you are !</h4>
 
 <p align="center">
